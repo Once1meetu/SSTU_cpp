@@ -1,0 +1,5 @@
+C:\Users\Роман\Desktop\Кирилл\programms\task_5\task_5\obj\Debug\task_5.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\Кирилл\programms\task_5\task_5\bin\Debug\task_5.exe
+C:\Users\Роман\Desktop\Кирилл\programms\task_5\task_5\bin\Debug\task_5.pdb
+C:\Users\Роман\Desktop\Кирилл\programms\task_5\task_5\obj\Debug\task_5.exe
+C:\Users\Роман\Desktop\Кирилл\programms\task_5\task_5\obj\Debug\task_5.pdb

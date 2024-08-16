@@ -1,0 +1,10 @@
+C:\Users\Роман\Desktop\Кирилл\programs\task_2\task_2\bin\Debug\task_2.exe
+C:\Users\Роман\Desktop\Кирилл\programs\task_2\task_2\bin\Debug\task_2.pdb
+C:\Users\Роман\Desktop\Кирилл\programs\task_2\task_2\obj\Debug\task_2.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\Кирилл\programs\task_2\task_2\obj\Debug\task_2.exe
+C:\Users\Роман\Desktop\Кирилл\programs\task_2\task_2\obj\Debug\task_2.pdb
+C:\Users\Роман\Desktop\Кирилл\Программирование(До 14.01)\1.3\task_2\task_2\bin\Debug\task_2.exe
+C:\Users\Роман\Desktop\Кирилл\Программирование(До 14.01)\1.3\task_2\task_2\bin\Debug\task_2.pdb
+C:\Users\Роман\Desktop\Кирилл\Программирование(До 14.01)\1.3\task_2\task_2\obj\Debug\task_2.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\Кирилл\Программирование(До 14.01)\1.3\task_2\task_2\obj\Debug\task_2.exe
+C:\Users\Роман\Desktop\Кирилл\Программирование(До 14.01)\1.3\task_2\task_2\obj\Debug\task_2.pdb

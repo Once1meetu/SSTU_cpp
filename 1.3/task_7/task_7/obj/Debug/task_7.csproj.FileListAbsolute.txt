@@ -1,0 +1,10 @@
+C:\Users\Роман\Desktop\Кирилл\programms\task_7\task_7\obj\Debug\task_7.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\Кирилл\programms\task_7\task_7\bin\Debug\task_7.exe
+C:\Users\Роман\Desktop\Кирилл\programms\task_7\task_7\bin\Debug\task_7.pdb
+C:\Users\Роман\Desktop\Кирилл\programms\task_7\task_7\obj\Debug\task_7.exe
+C:\Users\Роман\Desktop\Кирилл\programms\task_7\task_7\obj\Debug\task_7.pdb
+C:\Users\Роман\Desktop\Кирилл\Программирование(До 14.01)\1.3\task_7\task_7\bin\Debug\task_7.exe
+C:\Users\Роман\Desktop\Кирилл\Программирование(До 14.01)\1.3\task_7\task_7\bin\Debug\task_7.pdb
+C:\Users\Роман\Desktop\Кирилл\Программирование(До 14.01)\1.3\task_7\task_7\obj\Debug\task_7.csprojResolveAssemblyReference.cache
+C:\Users\Роман\Desktop\Кирилл\Программирование(До 14.01)\1.3\task_7\task_7\obj\Debug\task_7.exe
+C:\Users\Роман\Desktop\Кирилл\Программирование(До 14.01)\1.3\task_7\task_7\obj\Debug\task_7.pdb
